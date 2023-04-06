@@ -152,9 +152,10 @@ button {
 
   h3 {
     display: flex;
-    font-size: 1.4rem;
+    font-size: 1.2rem;
     gap: .5rem;
-    width: 16rem;
+    width: 23rem;
+    height: 11rem;
   
   }
 
